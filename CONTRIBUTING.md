@@ -91,7 +91,7 @@
         <a href="https://github.com/Aman-Kumar-Shrivastava">
             <img src="https://avatars.githubusercontent.com/u/221899338?s=400&u=558e477435c9f1741c9bc7533380912417cb4877&v=4 width="100px;" alt="Neeraj Madake"/>
             <br />
-            <sub><b>Misha Kumari</b></sub>
+            <sub><b>Aman Shrivastava</b></sub>
         </a>
     </td>
     
